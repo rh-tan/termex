@@ -30,7 +30,7 @@ In essence, we're defining a glossary term as a worthy domain concept that a rea
 ## What makes a term worthy?
 
 The extraction turns on the definition of worthiness, which we'll define as follows:
-> a term is worthy to its domain if it's **distinct to it** and **attested by it**.
+> a term is worthy if it's **distinct to its domain** and **attested by its documentation**.
 
 Distinctiveness refers to how unique a term is to its domain; in other words, how much a document *owns* the term. There are a few signals that point to this, such as single words that are uncommon in ordinary English, or cohesion for multi-word phrases. We'll get to specific techniques for mining distinctiveness later on.
 
