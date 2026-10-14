@@ -1,0 +1,301 @@
+rank,term,key,score,flat,structural,freq,topics,cvalue,pmi,in_title,in_shortdesc,definition,genericness,title_dominance,heading_hits,variants
+1,XPath expression,xpath expression,4.344,2.394,4.344,199,84,197.67,9.3,0.25,1,0.5,0.5,0.0,7,XPath expression | XPath expressions | XPath Expressions | XPATH expression
+2,XML document,xml document,4.044,2.094,4.044,348,208,345.53,3.66,0.25,1,0.5,0.5,0.0,23,XML document | XML documents | XML Documents | XML Document
+3,Oxygen XML Editor,oxygen xml editor,4.011,2.228,4.011,1932,895,3057.99,6.17,0.25,1,0.5,0.67,0.0,61,Oxygen XML Editor
+4,DITA bookmap,dita bookmap,3.907,2.157,3.907,14,11,13.0,5.35,0.25,0,0.5,0.0,0.0,2,DITA bookmap | DITA bookmaps | DITA Bookmap
+5,Syncro SVN Client,syncro svn client,3.872,2.455,3.872,35,23,54.28,10.46,0.25,0,0.5,0.33,0.0,1,Syncro SVN Client
+6,transformation scenario,transformation scenario,3.803,2.303,3.803,346,169,342.29,7.59,1.0,0,0.5,1.0,0.0,31,transformation scenario | transformation scenarios | Transformation Scenarios | Transformation Scenario | Transformation scenarios
+7,Author mode,author mode,3.761,2.311,3.761,438,232,435.92,7.75,0.25,1,0.5,1.0,0.0,79,Author mode | Author Mode | author mode | Author modes
+8,Schematron Quick Fixes,schematron quick fixes,3.746,2.329,3.746,19,10,28.53,8.08,0.25,0,0.5,0.33,0.0,8,Schematron Quick Fixes
+9,code template,code template,3.74,2.24,3.74,61,29,59.25,6.4,0.5,0,0.5,0.5,0.0,5,code template | code templates | Code Templates | Code templates
+10,Author tab,author tab,3.645,2.145,3.645,28,23,28.0,4.61,0.5,0,0.5,0.5,0.0,1,Author tab | Author Tab
+11,indent size,indent size,3.604,2.354,3.604,14,6,13.0,9.06,0.25,0,0.5,0.5,0.0,1,indent size | Indent size | Indent Size
+12,DITA map,dita map,3.501,2.251,3.501,319,139,315.77,6.61,0.25,0,0.5,0.5,0.0,22,DITA map | DITA maps | DITA Map | DITA Maps
+13,fallback font,fallback font,3.458,1.958,3.458,9,5,9.0,9.24,0.0,0,0.5,0.0,0.0,3,fallback font | Fallback Font | fallback fonts
+14,Saxon EE,saxon ee,3.329,1.829,3.329,9,7,7.8,9.9,0.0,0,0.5,0.0,0.0,0,Saxon EE | Saxon-EE
+15,XSLT stylesheet,xslt stylesheet,3.265,2.315,3.265,124,72,122.79,7.82,0.25,1,0.0,0.0,0.0,14,XSLT stylesheet | XSLT stylesheets | XSLT Stylesheets | XSLT Stylesheet
+16,DITA Open Toolkit,dita open toolkit,3.264,2.098,3.264,28,21,40.84,3.72,0.0,0,0.5,0.33,0.0,0,DITA Open Toolkit
+17,DITA-OT,dita ot,3.255,2.305,3.255,35,28,32.62,7.62,0.25,1,0.0,0.0,0.0,1,DITA-OT | DITA OT
+18,Review view,review view,3.247,2.247,3.247,42,17,42.0,6.54,0.5,0,0.5,1.0,0.0,10,Review view | Review View
+19,editor variables,editor variable,3.21,2.21,3.21,56,33,52.43,5.84,0.5,0,0.5,1.0,0.0,6,editor variables | editor variable | Editor Variables | Editor Variable | Editor variables
+20,DITA-OT plugin,dita ot plugin,3.209,2.259,3.209,18,13,27.47,6.77,0.25,1,0.0,0.0,0.0,8,DITA-OT plugin | DITA-OT Plugin
+21,div element,div element,3.208,2.208,3.208,12,7,12.0,7.3,0.0,0,0.5,0.5,0.0,0,div element | div elements
+22,outgoing changes,outgoing change,3.168,2.168,3.168,20,12,20.0,5.05,0.0,0,0.5,0.5,0.0,0,outgoing changes | outgoing change | Outgoing changes
+23,incoming changes,incoming change,3.162,2.162,3.162,26,17,26.0,4.94,0.0,0,0.5,0.5,0.0,1,incoming changes | incoming change | Incoming changes | Incoming Changes
+24,attribute value,attribute value,3.148,2.148,3.148,62,48,60.0,4.67,0.0,0,0.5,0.5,0.0,0,attribute value | attribute values | Attribute values
+25,schema annotations,schema annotation,3.12,1.37,3.12,7,7,7.0,4.3,0.25,0,0.5,0.0,0.0,4,schema annotations | schema annotation | Schema Annotations | Schema Annotation
+26,attributes,attribute,3.1,0.4,3.1,525,261,0.0,0.0,0.5,1,0.5,0.0,0.0,17,attributes | attribute | Attributes | Attribute
+27,plugin,plugin,3.1,0.4,3.1,250,101,0.0,0.0,0.5,1,0.5,0.0,0.0,12,plugin | plugins | Plugins | Plugin
+28,parameter values,parameter value,3.057,2.057,3.057,24,15,23.0,2.96,0.0,0,0.5,0.5,0.0,0,parameter values | parameter value
+29,Content Completion Assistant,content completion assistant,3.055,2.305,3.055,200,97,314.14,7.64,0.25,0,0.5,1.0,0.0,25,Content Completion Assistant | content completion assistant
+30,catalog mapping,catalog mapping,2.974,1.474,2.974,7,5,6.0,8.83,0.0,0,0.5,0.0,0.0,1,catalog mapping | catalog mappings | Catalog Mappings
+31,document type,document type,2.955,2.205,2.955,159,85,155.21,5.74,0.25,0,0.5,1.0,0.0,10,document type | document types | Document Type | Document Types | Document type
+32,topic page,topic page,2.908,2.158,2.908,60,7,60.0,4.86,0.25,0,0.5,1.0,0.0,5,topic page | Topic Page | topic pages | Topic Pages
+33,metadata,metadata,2.9,0.4,2.9,30,21,0.0,0.0,1.0,0,0.5,0.0,0.0,7,metadata | Metadata
+34,Classpath tab,classpath tab,2.877,2.377,2.877,22,16,22.0,8.98,0.5,0,0.0,0.0,0.0,1,Classpath tab | Classpath Tab
+35,parameter,parameter,2.85,0.4,2.85,728,215,0.0,0.0,0.25,1,0.5,0.0,0.0,18,parameter | parameters | Parameters | Parameter
+36,CSS,css,2.85,0.4,2.85,200,128,0.0,0.0,0.25,1,0.5,0.0,0.0,22,CSS | CSSs
+37,revision,revision,2.85,0.4,2.85,166,42,0.0,0.0,0.25,1,0.5,0.0,0.0,2,revision | revisions | Revision | Revisions
+38,automatic validation,automatic validation,2.81,2.31,2.81,24,24,19.5,7.72,1.0,0,0.0,0.5,0.0,4,automatic validation | Automatic validation | Automatic Validation
+39,transformation parameter,transformation parameter,2.802,2.102,2.802,42,32,40.75,3.8,0.5,1,0.0,0.5,0.0,6,transformation parameter | transformation parameters | Transformation Parameters | Transformation Parameter | Transformation parameters
+40,path attribute,path attribute,2.802,1.802,2.802,10,2,10.0,3.24,0.0,0,0.5,0.5,0.0,0,path attribute
+41,start tag,start tag,2.799,2.299,2.799,16,11,14.5,7.51,0.0,0,0.5,1.0,0.0,0,start tag | start tags
+42,contextual menu,contextual menu,2.794,2.344,2.794,499,281,496.76,8.37,0.25,1,0.0,0.5,0.0,5,contextual menu | contextual menus | Contextual Menu | Contextual menu | Contextual menus
+43,dialog box,dialog box,2.792,2.342,2.792,534,289,531.03,8.32,0.25,1,0.0,0.5,0.0,22,dialog box | dialog boxes | Dialog Box | Dialog Boxes
+44,target resource,target resource,2.752,2.252,2.752,47,8,47.0,6.63,0.0,0,0.5,1.0,0.0,0,target resource
+45,Apache Lucene,apache lucene,2.752,1.252,2.752,4,2,4.0,12.43,0.0,0,0.5,0.0,0.0,0,Apache Lucene
+46,Track Changes feature,track changes feature,2.751,2.251,2.751,35,11,55.47,6.62,0.0,0,0.5,1.0,0.0,0,Track Changes feature
+47,index terms page,index terms page,2.739,2.239,2.739,16,4,24.83,6.39,0.0,0,0.5,1.0,0.0,3,index terms page | Index Terms Page
+48,validation scenario,validation scenario,2.732,2.232,2.732,102,49,99.4,6.26,1.0,0,0.0,0.5,0.0,12,validation scenario | validation scenarios | Validation Scenario | Validation Scenarios | Validation scenarios
+49,Templates tab,templates tab,2.727,2.227,2.727,23,14,21.0,6.16,0.5,0,0.0,0.0,0.0,3,Templates tab | Templates Tab
+50,Extensions tab,extensions tab,2.718,2.218,2.718,14,11,14.0,6.49,0.5,0,0.0,0.0,0.0,1,Extensions tab | Extensions Tab
+51,plugin extension,plugin extension,2.7,2.25,2.7,19,17,18.24,6.6,0.25,1,0.0,0.5,0.0,3,plugin extension | plugin extensions | Plugin Extension | Plugin Extensions
+52,Editor perspective,editor perspective,2.699,1.699,2.699,10,6,9.0,3.86,0.5,0,0.5,1.0,0.0,1,Editor perspective | Editor Perspective
+53,element names,element names,2.698,2.198,2.698,28,23,26.56,5.61,0.0,0,0.5,1.0,0.0,0,element names | Element names | Element Names
+54,PDF output,pdf output,2.697,2.247,2.697,81,58,79.67,6.53,0.25,1,0.0,0.5,0.0,12,PDF output | PDF Output | PDF outputs
+55,default value,default value,2.695,2.195,2.695,174,76,173.0,5.56,0.0,0,0.5,1.0,0.0,0,default value | Default value | Default Value | default values | Default values | default_value
+56,syntax highlighting,syntax highlighting,2.686,2.436,2.686,34,27,33.29,10.09,0.25,0,0.0,0.0,0.0,17,syntax highlighting | Syntax Highlighting | Syntax highlighting
+57,DITA-OT plugins,dita ot plugins,2.671,2.171,2.671,10,6,14.66,7.62,0.5,0,0.0,0.0,0.0,1,DITA-OT plugins | DITA-OT Plugins
+58,main page,main page,2.67,2.17,2.67,44,16,43.11,5.08,0.0,0,0.5,1.0,0.0,2,main page | Main Page
+59,search results page,search results page,2.655,2.155,2.655,21,7,33.28,4.8,0.0,0,0.5,1.0,0.0,3,search results page | Search Results Page | Search Results page
+60,XPath toolbar,xpath toolbar,2.624,2.124,2.624,14,9,14.0,4.73,0.5,0,0.0,0.0,0.0,7,XPath toolbar | XPath Toolbar
+61,FO processor,fo processor,2.613,2.363,2.613,13,10,10.91,9.97,0.25,0,0.0,0.0,0.0,1,FO processor | fo processor | FO Processor | FO processors
+62,namespace prefix,namespace prefix,2.601,2.351,2.601,36,17,35.0,8.5,0.25,0,0.0,0.0,0.0,1,namespace prefix | namespace prefixes | Namespace Prefix
+63,JSON document,json document,2.594,2.144,2.594,105,40,103.57,4.59,0.25,1,0.0,0.5,0.0,19,JSON document | JSON documents | JSON Documents | JSON Document
+64,form control,form control,2.581,2.381,2.581,102,29,100.55,9.06,0.5,1,0.0,1.0,0.0,6,form control | form controls | Form Control | Form Controls | Form controls
+65,Workspace Access plugin extension,workspace access plugin extension,2.578,2.078,2.578,9,8,18.0,6.38,1.0,0,0.0,0.5,0.0,3,Workspace Access plugin extension | Workspace Access Plugin Extension
+66,XSLT tab,xslt tab,2.561,2.061,2.561,13,12,13.0,4.04,0.5,0,0.0,0.0,0.0,2,XSLT tab | XSLT Tab
+67,HTML content,html content,2.543,2.093,2.543,22,14,21.5,3.63,0.25,1,0.0,0.5,0.0,2,HTML content | HTML Content
+68,NG schema,ng schema,2.526,2.276,2.526,30,22,28.15,7.08,0.25,0,0.0,0.0,0.0,5,NG schema | NG schemas | NG Schema | NG Schemas
+69,relational pseudo,relational pseudo,2.526,0.776,2.526,2,2,2.0,8.47,0.25,0,0.5,0.0,0.0,1,relational pseudo | Relational Pseudo
+70,schema diagram,schema diagram,2.51,2.26,2.51,24,17,22.75,6.78,0.25,0,0.0,0.0,0.0,1,schema diagram | schema diagrams | Schema Diagram
+71,JSON Schema,json schema,2.509,2.259,2.509,85,35,83.11,6.76,0.25,0,0.0,0.0,0.0,12,JSON Schema | JSON schema | JSON Schemas | JSON schemas
+72,XML Schema documentation,xml schema documentation,2.509,2.009,2.509,10,7,13.81,4.57,0.5,0,0.0,0.0,0.0,2,XML Schema documentation | XML Schema Documentation
+73,String argument,string argument,2.507,2.007,2.507,10,4,10.0,7.1,0.0,0,0.5,1.0,0.0,0,String argument | string argument | string arguments
+74,profiling attributes,profiling attribute,2.481,2.231,2.481,74,26,71.57,6.24,0.25,0,0.0,0.0,0.0,6,profiling attributes | profiling attribute | Profiling Attributes
+75,ZIP archive,zip archive,2.468,2.468,2.468,26,22,25.0,10.69,0.0,0,0.0,0.0,0.0,0,ZIP archive | zip archive | ZIP archives
+76,SVN repository,svn repository,2.455,2.205,2.455,13,9,11.83,6.74,0.25,0,0.0,0.0,0.0,1,SVN repository | SVN Repository | SVN repositories
+77,XML Catalog,xml catalog,2.447,2.197,2.447,51,30,48.42,5.6,0.25,0,0.0,0.0,0.0,9,XML Catalog | XML Catalogs | XML catalog | XML catalogs
+78,CSS stylesheets,css stylesheet,2.439,2.189,2.439,38,35,35.43,5.45,0.25,0,0.0,0.0,0.0,6,CSS stylesheets | CSS stylesheet | CSS Stylesheets | CSS Stylesheet
+79,Schema tab,schema tab,2.439,1.939,2.439,11,7,11.0,2.74,0.5,0,0.0,0.0,0.0,3,Schema tab | Schema Tab
+80,peg revision,peg revision,2.436,2.436,2.436,36,17,34.0,10.1,0.0,0,0.0,0.0,0.0,0,peg revision | peg revisions | Peg revisions
+81,customization directory,customization directory,2.436,2.186,2.436,15,7,14.0,5.39,0.25,0,0.0,0.0,0.0,2,customization directory | Customization Directory
+82,child topics,child topic,2.435,1.935,2.435,12,9,11.0,2.16,0.0,0,0.5,1.0,0.0,0,child topics | child topic
+83,XProc script,xproc script,2.43,2.23,2.43,11,8,11.0,8.22,0.0,1,0.0,0.5,0.0,0,XProc script | XProc scripts
+84,Schematron schema,schematron schema,2.423,2.173,2.423,28,18,27.0,5.14,0.25,0,0.0,0.0,0.0,1,Schematron schema | Schematron schemas | Schematron Schema | Schematron Schemas
+85,personalized term lists,personalized term list,2.411,1.578,2.411,5,3,7.92,6.86,0.0,0,0.5,0.67,0.0,2,personalized term lists | Personalized Term Lists | personalized term list
+86,Preview pane,preview pane,2.41,2.41,2.41,43,35,41.0,9.61,0.0,0,0.0,0.0,0.0,0,Preview pane | preview pane
+87,CSS styles,css styles,2.403,2.203,2.403,16,13,15.33,5.71,0.0,1,0.0,0.5,0.0,2,CSS styles | CSS Styles
+88,XML markup,xml markup,2.402,2.152,2.402,16,10,14.75,4.75,0.25,0,0.0,0.0,0.0,6,XML markup | XML Markup
+89,font,font,2.4,0.4,2.4,119,49,0.0,0.0,0.5,0,0.5,0.0,0.0,14,font | fonts | Fonts | Font
+90,footnotes,footnote,2.4,0.4,2.4,15,9,0.0,0.0,0.5,0,0.5,0.0,0.0,6,footnotes | Footnotes | footnote | Footnote
+91,XML Schema,xml schema,2.392,2.142,2.392,169,81,167.26,4.57,0.25,0,0.0,0.0,0.0,16,XML Schema | XML schema | XML_SCHEMA
+92,external XProc engine,external xproc engine,2.389,2.106,2.389,8,3,12.68,7.4,0.25,1,0.0,0.67,0.0,1,external XProc engine | external XProc engines | External XProc Engine
+93,DITA specialization,dita specialization,2.388,2.138,2.388,12,6,11.33,6.0,0.25,0,0.0,0.0,0.0,1,DITA specialization | DITA specializations | DITA Specialization
+94,processing instruction,processing instruction,2.374,2.424,2.374,36,22,33.75,9.87,0.25,1,0.0,1.0,0.0,2,processing instruction | processing instructions | Processing Instruction | Processing Instructions | processing-instruction | Processing instructions | Processing-instructions
+95,current node,current node,2.373,2.173,2.373,24,12,24.0,5.14,0.0,1,0.0,0.5,0.0,0,current node
+96,XSLT Debugger,xslt debugger,2.363,2.113,2.363,13,5,10.0,7.59,0.25,0,0.0,0.0,0.0,1,XSLT Debugger | XSLT debugger
+97,Oxygen Styles Basket,oxygen styles basket,2.362,1.862,2.362,8,4,11.89,2.81,0.0,0,0.5,1.0,0.0,2,Oxygen Styles Basket
+98,Publishing Template,publishing template,2.355,2.355,2.355,139,72,134.12,8.57,0.5,0,0.0,0.5,0.0,34,Publishing Template | publishing template | publishing templates | Publishing Templates
+99,XML Schemas,xml schemas,2.354,2.104,2.354,19,16,18.0,3.84,0.25,0,0.0,0.0,0.0,2,XML Schemas | XML schemas
+100,Highlight Component Occurrences,highlight component occurrences,2.348,2.015,2.348,8,4,12.68,5.68,1.0,0,0.0,0.67,0.0,5,Highlight Component Occurrences
+101,outputclass attribute,outputclass attribute,2.343,2.343,2.343,18,13,16.0,8.35,0.0,0,0.0,0.0,0.0,0,outputclass attribute
+102,CSS property,css property,2.341,2.141,2.341,33,26,33.0,4.54,0.0,1,0.0,0.5,0.0,4,CSS property | CSS properties | CSS Property | CSS Properties
+103,Refactoring submenu,refactoring submenu,2.339,2.339,2.339,36,18,36.0,8.27,0.0,0,0.0,0.0,0.0,0,Refactoring submenu
+104,WebDAV connection,webdav connection,2.336,2.336,2.336,13,7,12.0,9.23,0.5,0,0.0,0.5,0.0,3,WebDAV connection | WebDAV Connection | WebDAV connections | WebDAV Connections
+105,keyref attribute,keyref attribute,2.329,2.329,2.329,35,13,34.0,8.08,0.0,0,0.0,0.0,0.0,0,keyref attribute | keyref attributes
+106,href attribute,href attribute,2.329,2.329,2.329,27,15,27.0,8.08,0.0,0,0.0,0.0,0.0,0,href attribute
+107,working copy,working copy,2.311,2.361,2.311,137,57,132.96,8.69,0.25,1,0.0,1.0,0.0,5,working copy | Working Copy | working copies
+108,customization CSS,customization css,2.303,2.303,2.303,112,96,111.0,7.6,0.0,0,0.0,0.0,0.0,0,customization CSS | Customization CSS
+109,faceted searches,faceted search,2.301,1.051,2.301,4,1,4.0,7.52,0.25,0,0.5,0.5,0.0,1,faceted searches | faceted search | Faceted Search
+110,Repositories view,repositories view,2.296,2.296,2.296,32,19,31.5,7.46,0.5,0,0.0,0.5,0.0,3,Repositories view | Repositories View
+111,XML fragment,xml fragment,2.294,2.044,2.294,29,15,28.17,2.71,0.25,0,0.0,0.0,0.0,1,XML fragment | XML fragments | XML Fragment
+112,Scratch Buffer,scratch buffer,2.29,0.79,2.29,2,1,1.0,14.28,0.5,0,0.5,0.5,0.0,1,Scratch Buffer
+113,Validate submenu,validate submenu,2.288,2.288,2.288,16,11,16.0,7.31,0.0,0,0.0,0.0,0.0,0,Validate submenu
+114,FO Processor Tab,fo processor tab,2.283,2.033,2.283,9,7,14.26,5.51,0.25,0,0.0,0.0,0.0,4,FO Processor Tab | FO Processor tab
+115,unique identifier,unique identifier,2.283,1.283,2.283,6,4,4.0,10.88,0.0,0,0.5,0.5,0.0,0,unique identifier
+116,XQuery file,xquery file,2.279,2.079,2.279,35,22,34.0,3.37,0.0,1,0.0,0.5,0.0,2,XQuery file | XQuery files | XQuery Files
+117,conkeyref attribute,conkeyref attribute,2.27,2.27,2.27,21,14,21.0,6.97,0.0,0,0.0,0.0,0.0,0,conkeyref attribute | conkeyref attributes
+118,sample plugin,sample plugin,2.263,2.263,2.263,22,14,20.75,6.83,0.5,0,0.0,0.5,0.0,1,sample plugin | sample plugins | Sample Plugin | Sample plugins | Sample Plugins
+119,Profiling Condition Sets,profiling condition set,2.26,1.177,2.26,5,5,4.75,7.45,0.25,0,0.5,0.67,0.0,4,Profiling Condition Sets | Profiling Condition Set | profiling condition set | profiling condition sets
+120,toc element,toc element,2.244,1.244,2.244,6,5,6.0,5.0,0.0,0,0.5,0.5,0.0,0,toc element
+121,toolbar composite,toolbar composite,2.236,0.736,2.236,2,1,2.0,7.72,0.0,0,0.5,0.0,0.0,0,toolbar composite
+122,customization stylesheet,customization stylesheet,2.234,2.234,2.234,16,9,16.0,6.3,0.0,0,0.0,0.0,0.0,0,customization stylesheet
+123,Java extension class,java extension class,2.232,1.732,2.232,6,5,9.51,5.19,0.0,0,0.5,1.0,0.0,0,Java extension class | Java extension classes
+124,WSDL SOAP Analyzer,wsdl soap analyzer,2.23,1.064,2.23,3,1,3.17,10.39,0.0,0,0.5,0.33,0.0,0,WSDL SOAP Analyzer
+125,WebHelp Responsive output,webhelp responsive output,2.225,2.308,2.225,79,43,122.95,7.69,0.25,0,0.0,0.33,0.0,15,WebHelp Responsive output | WebHelp Responsive Output
+126,Quick Fixes,quick fixes,2.22,2.47,2.22,32,14,28.38,10.75,0.25,0,0.0,0.5,0.0,2,Quick Fixes | quick fixes
+127,runtime configuration directive,runtime configuration directive,2.217,2.217,2.217,8,4,12.68,9.49,0.0,0,0.0,0.0,0.0,0,runtime configuration directive
+128,SVN client,svn client,2.205,2.455,2.205,22,13,17.92,10.46,0.25,0,0.0,0.5,0.0,1,SVN client | SVN Client | SVN clients
+129,CSS subtab,css subtab,2.201,1.701,2.201,10,5,8.0,6.48,0.5,0,0.0,0.0,0.0,1,CSS subtab | CSS Subtab
+130,Oxygen Publishing Template,oxygen publishing template,2.193,2.16,2.193,50,44,75.02,4.9,0.0,1,0.0,0.67,0.0,2,Oxygen Publishing Template | Oxygen Publishing Templates
+131,XSLT document,xslt document,2.193,1.993,2.193,16,13,15.5,1.75,0.0,1,0.0,0.5,0.0,0,XSLT document | XSLT documents | XSLT Document
+132,link identifier,link identifier,2.192,1.192,2.192,5,1,5.0,7.11,0.0,0,0.5,0.5,0.0,0,link identifier | link identifiers
+133,XQuery tab,xquery tab,2.183,1.683,2.183,9,8,9.0,4.06,0.5,0,0.0,0.0,0.0,2,XQuery tab | XQuery Tab
+134,SharePoint Browser view,sharepoint browser view,2.18,2.013,2.18,8,5,12.15,5.65,0.5,0,0.0,0.33,0.0,1,SharePoint Browser view | SharePoint Browser View
+135,configuration dialog box,configuration dialog box,2.177,2.26,2.177,19,13,21.61,6.79,0.25,0,0.0,0.33,0.0,1,configuration dialog box | Configuration Dialog Box
+136,Catalogs tab,catalogs tab,2.172,1.672,2.172,8,5,8.0,6.93,0.5,0,0.0,0.0,0.0,1,Catalogs tab | Catalogs Tab
+137,MathML equations,mathml equation,2.169,2.419,2.169,22,11,22.0,9.77,0.25,0,0.0,0.5,0.0,5,MathML equations | MathML Equations | MathML equation
+138,XML vocabulary,xml vocabulary,2.167,2.167,2.167,13,11,12.0,6.03,0.0,0,0.0,0.0,0.0,0,XML vocabulary | XML vocabularies
+139,Ant build script,ant build script,2.161,2.127,2.161,8,5,12.68,7.8,0.0,1,0.0,0.67,0.0,0,Ant build script | Ant build scripts
+140,extensions bundle,extensions bundle,2.159,1.909,2.159,9,7,8.0,10.89,0.25,0,0.0,0.0,0.0,1,extensions bundle | Extensions Bundle
+141,Apache FOP,apache fop,2.154,1.904,2.154,9,4,7.8,11.46,0.25,0,0.0,0.0,0.0,1,Apache FOP
+142,keyboard shortcuts,keyboard shortcut,2.152,2.402,2.152,34,26,33.0,9.46,0.25,0,0.0,0.5,0.0,3,keyboard shortcuts | keyboard shortcut | Keyboard Shortcuts
+143,Markdown editor,markdown editor,2.151,2.151,2.151,25,5,24.5,4.73,0.5,0,0.0,0.5,0.0,4,Markdown editor | Markdown Editor
+144,directory,directory,2.15,0.4,2.15,367,168,0.0,0.0,0.25,0,0.5,0.0,0.0,6,directory | directories | Directory | Directories
+145,DITA,dita,2.15,0.4,2.15,328,152,0.0,0.0,0.25,0,0.5,0.0,0.0,74,DITA | dita
+146,XML,xml,2.15,0.4,2.15,203,125,0.0,0.0,0.25,0,0.5,0.0,0.0,17,XML | xml
+147,Text mode,text mode,2.15,2.2,2.15,142,102,140.5,5.64,0.25,1,0.0,1.0,0.0,29,Text mode | Text Mode | Text modes
+148,XQuery,xquery,2.15,0.4,2.15,71,44,0.0,0.0,0.25,0,0.5,0.0,0.0,14,XQuery | XQUERY
+149,XPath,xpath,2.15,0.4,2.15,39,23,0.0,0.0,0.25,0,0.5,0.0,0.0,3,XPath
+150,Schematron,schematron,2.15,0.4,2.15,38,23,0.0,0.0,0.25,0,0.5,0.0,0.0,8,Schematron | schematron
+151,XInclude,xinclude,2.15,0.4,2.15,19,13,0.0,0.0,0.25,0,0.5,0.0,0.0,5,XInclude
+152,WSDL,wsdl,2.15,0.4,2.15,16,10,0.0,0.0,0.25,0,0.5,0.0,0.0,1,WSDL
+153,cursor position,cursor position,2.147,2.397,2.147,111,47,17.0,9.36,0.25,0,0.0,0.5,0.0,1,cursor position | Cursor Position
+154,upper case,upper case,2.145,2.445,2.145,22,12,16.0,10.26,0.0,1,0.0,1.0,0.0,0,upper case
+155,Validation tab,validation tab,2.143,1.643,2.143,9,5,9.0,3.31,0.5,0,0.0,0.0,0.0,1,Validation tab | Validation Tab
+156,CSS selector,css selector,2.138,2.138,2.138,12,12,12.0,5.98,0.0,0,0.0,0.0,0.0,1,CSS selector | CSS Selector
+157,template directory,template directory,2.135,2.135,2.135,18,13,14.33,4.44,0.0,0,0.0,0.0,0.0,0,template directory | template directories
+158,Control toolbar,control toolbar,2.131,2.131,2.131,13,5,11.5,5.36,0.5,0,0.0,0.5,0.0,2,Control toolbar | Control Toolbar
+159,Arithmetic Functions,arithmetic functions,2.126,0.926,2.126,2,1,2.0,11.79,1.0,1,0.0,0.5,0.0,1,Arithmetic Functions | arithmetic functions
+160,left pane,left pane,2.122,1.122,2.122,5,4,5.0,5.78,0.0,0,0.5,0.5,0.0,0,left pane
+161,DITA Maps Manager,dita maps manager,2.116,2.283,2.116,140,62,195.4,7.22,0.5,0,0.0,0.67,0.0,11,DITA Maps Manager
+162,revision graph,revision graph,2.111,2.361,2.111,13,7,11.86,9.68,0.25,0,0.0,0.5,0.0,4,revision graph | Revision Graph
+163,Document Type configuration dialog box,document type configuration dialog box,2.105,2.205,2.105,70,60,140.0,5.74,0.5,0,0.0,0.6,0.0,4,Document Type configuration dialog box | Document type configuration dialog box | Document Type Configuration dialog box | Document Type Configuration Dialog Box
+164,multiple files,multiple files,2.103,2.153,2.103,41,31,39.0,4.76,0.25,1,0.0,1.0,0.0,3,multiple files | Multiple Files
+165,maximum number,maximum number,2.091,2.391,2.091,23,20,22.0,9.25,0.0,1,0.0,1.0,0.0,0,maximum number | Maximum number
+166,current document,current document,2.09,2.14,2.09,136,84,134.5,4.51,0.25,1,0.0,1.0,0.0,3,current document | Current Document
+167,reusable components,reusable component,2.077,2.327,2.077,41,10,39.0,8.04,0.25,0,0.0,0.5,0.0,2,reusable components | reusable component | Reusable Components | Reusable Component | Reusable components
+168,Outline view,outline view,2.076,2.326,2.076,165,60,164.21,8.02,0.25,0,0.0,0.5,0.0,12,Outline view | Outline View | outline view
+169,DITA documentation,dita documentation,2.073,2.073,2.073,17,12,17.0,3.26,0.0,0,0.0,0.0,0.0,0,DITA documentation | DITA Documentation
+170,XML Schema components,xml schema component,2.073,1.907,2.073,9,5,14.26,3.14,0.5,0,0.0,0.33,0.0,1,XML Schema components | XML Schema component | XML Schema Components
+171,Table Explorer view,table explorer view,2.071,2.238,2.071,17,10,26.94,6.36,0.5,0,0.0,0.67,0.0,2,Table Explorer view | Table Explorer View
+172,SDK,sdk,2.07,0.32,2.07,12,8,0.0,0.0,0.25,0,0.5,0.0,0.0,2,SDK
+173,Profiling tab,profiling tab,2.065,2.065,2.065,11,6,11.0,5.12,0.0,0,0.0,0.0,0.0,2,Profiling tab | Profiling Tab
+174,Annotations view,annotations view,2.063,2.063,2.063,11,7,11.0,5.08,0.5,0,0.0,0.5,0.0,2,Annotations view | Annotations View
+175,Schematron rules,schematron rule,2.058,2.308,2.058,28,15,27.0,7.69,0.25,0,0.0,0.5,0.0,6,Schematron rules | Schematron rule | Schematron Rules
+176,Data Source Explorer view,data source explorer view,2.057,2.307,2.057,66,51,132.0,7.66,0.5,0,0.0,0.75,0.0,5,Data Source Explorer view | Data Source Explorer View
+177,AutoCorrect feature,autocorrect feature,2.053,2.303,2.053,11,3,11.0,9.6,0.25,0,0.0,0.5,0.0,1,AutoCorrect feature | AutoCorrect Feature
+178,Cyrillic counters,cyrillic counters,2.039,1.089,2.039,3,1,3.0,14.26,0.25,1,0.0,0.0,0.0,1,Cyrillic counters | Cyrillic Counters
+179,XML Refactoring operation,xml refactoring operation,2.038,2.122,2.038,13,9,17.21,5.18,0.25,0,0.0,0.33,0.0,2,XML Refactoring operation | XML refactoring operations | XML Refactoring operations | XML Refactoring Operation | XML Refactoring Operations
+180,refactoring operation,refactoring operation,2.033,2.283,2.033,22,16,18.92,7.22,0.25,0,0.0,0.5,0.0,14,refactoring operation | Refactoring Operations | refactoring operations
+181,XSLT processor,xslt processor,2.033,1.783,2.033,10,8,8.83,5.88,0.25,0,0.0,0.0,0.0,1,XSLT processor | XSLT processors | XSLT Processor
+182,Parameters tab,parameters tab,2.027,2.277,2.027,63,55,63.0,7.1,0.25,0,0.0,0.5,0.0,3,Parameters tab | Parameters Tab
+183,shortcut keys,shortcut key,2.022,2.272,2.022,15,11,14.0,7.01,0.25,0,0.0,0.5,0.0,3,shortcut keys | shortcut key | Shortcut Key | Shortcut keys | Shortcut Keys
+184,drop-down menu,drop down menu,2.011,2.311,2.011,27,19,34.73,7.73,0.0,1,0.0,1.0,0.0,0,drop-down menu | drop-down menus
+185,custom form control,custom form control,2.01,2.06,2.01,12,4,19.02,4.52,0.25,1,0.0,1.0,0.0,3,custom form control | custom form controls | Custom Form Controls
+186,spell checker,spell checker,2.0,2.5,2.0,24,12,22.11,12.31,0.0,0,0.0,0.5,0.0,0,spell checker | Spell Checker
+187,MarkLogic connection,marklogic connection,1.998,2.248,1.998,12,8,12.0,8.06,0.25,0,0.0,0.5,0.0,2,MarkLogic connection | MarkLogic Connection | MarkLogic connections
+188,merge operation,merge operation,1.996,2.246,1.996,35,17,33.33,6.53,0.25,0,0.0,0.5,0.0,1,merge operation | Merge Operation | merge operations
+189,validation engine,validation engine,1.994,2.244,1.994,22,17,20.43,6.49,0.25,0,0.0,0.5,0.0,1,validation engine | Validation engine | validation engines | Validation engines | Validation Engines
+190,database connection,database connection,1.994,2.294,1.994,16,16,14.73,7.42,0.0,1,0.0,1.0,0.0,0,database connection | database connections
+191,DITAVAL file,ditaval file,1.985,2.235,1.985,48,19,47.0,6.31,0.25,0,0.0,0.5,0.0,4,DITAVAL file | DITAVAL files | DITAVAL File | ditaval files
+192,WebHelp output,webhelp output,1.983,2.233,1.983,47,29,46.33,6.27,0.25,0,0.0,0.5,0.0,7,WebHelp output | WebHelp Output
+193,easiest way,easiest way,1.983,2.483,1.983,29,27,29.0,10.98,0.0,0,0.0,0.5,0.0,0,easiest way
+194,JSON Schema Design mode,json schema design mode,1.982,2.232,1.982,14,9,28.0,6.76,0.25,0,0.0,0.5,0.0,4,JSON Schema Design mode | JSON Schema Design Mode | JSON schema Design mode
+195,Smaller interrelated modules,smaller interrelated modules,1.98,2.313,1.98,8,8,12.68,11.93,0.0,0,0.0,0.33,0.0,0,Smaller interrelated modules | smaller interrelated modules
+196,Syncro Soft SRL,syncro soft srl,1.98,2.313,1.98,8,2,11.09,13.03,0.0,0,0.0,0.33,0.0,0,Syncro Soft SRL
+197,debugging session,debugging session,1.974,2.474,1.974,15,6,13.5,10.81,0.0,0,0.0,0.5,0.0,0,debugging session | debugging sessions
+198,status bar,status bar,1.966,2.466,1.966,17,12,15.67,10.66,0.5,0,0.0,1.0,0.0,2,status bar | Status Bar | Status bar
+199,repository location,repository location,1.961,2.211,1.961,14,10,12.25,6.35,0.25,0,0.0,0.5,0.0,1,repository location | repository locations | Repository location | Repository Location
+200,text field,text field,1.949,2.249,1.949,64,42,62.0,6.57,0.0,1,0.0,1.0,0.0,0,text field | text fields
+201,XML node,xml node,1.949,1.949,1.949,13,10,12.5,1.93,0.0,0,0.0,0.0,0.0,0,XML node | XML nodes
+202,DITA Reusable Components view,dita reusable components view,1.948,1.948,1.948,10,7,18.0,3.41,0.5,0,0.0,0.5,0.0,2,DITA Reusable Components view | DITA Reusable Components View
+203,validation errors,validation error,1.946,2.196,1.946,39,29,38.0,5.58,0.25,0,0.0,0.5,0.0,5,validation errors | validation error | Validation Errors | Validation error | Validation errors
+204,Debugger perspective,debugger perspective,1.945,2.445,1.945,17,11,14.0,10.26,0.0,0,0.0,0.5,0.0,0,Debugger perspective | debugger perspective | debugger perspectives | Debugger perspectives
+205,Subject definitions,subject definitions,1.945,0.945,1.945,3,1,3.0,8.59,0.0,0,0.5,0.5,0.0,0,Subject definitions | subject definitions
+206,final form,final form,1.94,2.24,1.94,11,9,11.0,8.41,0.0,1,0.0,1.0,0.0,0,final form
+207,New document wizard,new document wizard,1.939,2.106,1.939,53,38,82.42,3.88,0.5,0,0.0,0.67,0.0,4,New document wizard | New Document wizard | New Document Wizard | new document wizard
+208,custom CSS,custom css,1.939,2.189,1.939,26,12,21.58,5.44,0.25,0,0.0,0.5,0.0,5,custom CSS | Custom CSS
+209,configuration file,configuration file,1.938,2.188,1.938,91,32,88.2,5.43,0.25,0,0.0,0.5,0.0,5,configuration file | Configuration File | configuration files
+210,plugin descriptor,plugin descriptor,1.937,0.437,1.937,3,3,-1.67,6.73,0.0,0,0.5,0.0,0.0,0,plugin descriptor
+211,Level AAA,level aaa,1.935,2.435,1.935,53,2,52.0,10.08,0.0,0,0.0,0.5,0.0,2,Level AAA
+212,template descriptor file,template descriptor file,1.931,2.264,1.931,59,41,91.4,6.85,0.0,0,0.0,0.33,0.0,2,template descriptor file | Template Descriptor File
+213,Authoring Tool,authoring tool,1.927,2.427,1.927,76,2,76.0,9.92,0.0,0,0.0,0.5,0.0,0,Authoring Tool
+214,WSDL document,wsdl document,1.926,2.176,1.926,21,12,18.5,5.2,0.25,0,0.0,0.5,0.0,9,WSDL document | WSDL Documents | WSDL documents
+215,JAR libraries,jar library,1.922,2.422,1.922,24,16,22.0,9.83,0.0,0,0.0,0.5,0.0,0,JAR libraries | JAR library
+216,HEAD revision,head revision,1.921,2.421,1.921,22,12,21.0,9.82,0.0,0,0.0,0.5,0.0,0,HEAD revision
+217,mouse pointer,mouse pointer,1.92,2.42,1.92,12,10,11.0,12.38,0.0,0,0.0,0.5,0.0,0,mouse pointer
+218,CSS selectors,css selectors,1.917,1.917,1.917,10,7,9.5,6.69,0.0,0,0.0,0.0,0.0,0,CSS selectors | CSS Selectors
+219,output directory,output directory,1.915,2.165,1.915,40,17,38.25,4.98,0.25,0,0.0,0.5,0.0,4,output directory | Output Directory | Output directory | output directories
+220,MathML notations,mathml notation,1.914,1.664,1.914,7,6,7.0,9.85,0.25,0,0.0,0.0,0.0,1,MathML notations | MathML notation | MathML Notations
+221,DITA topic,dita topic,1.913,2.163,1.913,134,67,132.37,4.95,0.25,0,0.0,0.5,0.0,23,DITA topic | DITA topics | DITA Topics | DITA Topic
+222,Advanced tab,advanced tab,1.913,2.163,1.913,11,9,11.0,6.96,0.25,0,0.0,0.5,0.0,3,Advanced tab | Advanced Tab
+223,DITA-Compatible Documents,dita compatible documents,1.91,1.993,1.91,7,1,11.09,5.78,0.25,0,0.0,0.33,0.0,2,DITA-Compatible Documents | DITA-compatible documents
+224,Markdown syntax,markdown syntax,1.904,1.904,1.904,10,4,9.0,7.73,0.0,0,0.0,0.0,0.0,0,Markdown syntax
+225,Support Docs,support docs,1.902,2.402,1.902,76,2,76.0,9.46,0.0,0,0.0,0.5,0.0,0,Support Docs
+226,Optional argument,optional argument,1.902,2.402,1.902,46,9,46.0,9.45,0.0,0,0.0,0.5,0.0,0,Optional argument | optional argument
+227,Output tab,output tab,1.902,2.152,1.902,25,19,25.0,4.75,0.25,0,0.0,0.5,0.0,9,Output tab | Output Tab | output tab
+228,node,node,1.9,0.4,1.9,195,76,0.0,0.0,0.0,0,0.5,0.0,0.0,1,node | nodes | Nodes
+229,validation,validation,1.9,0.4,1.9,144,95,0.0,0.0,0.0,0,0.5,0.0,0.0,7,validation | Validation | validations
+230,submaps,submap,1.9,0.4,1.9,34,10,0.0,0.0,0.0,0,0.5,0.0,0.0,3,submaps | submap | Submaps | Submap
+231,SVG,svg,1.9,0.4,1.9,25,18,0.0,0.0,0.0,0,0.5,0.0,0.0,0,SVG | svg
+232,EPUB,epub,1.9,0.4,1.9,22,20,0.0,0.0,0.0,0,0.5,0.0,0.0,0,EPUB | ePub | epub
+233,facets,facet,1.9,0.4,1.9,20,4,0.0,0.0,0.0,0,0.5,0.0,0.0,2,facets | facet | Facets
+234,Callouts preferences page,callouts preferences page,1.899,2.232,1.899,13,5,20.6,7.26,0.0,0,0.0,0.33,0.0,0,Callouts preferences page
+235,Append Child,append child,1.897,2.397,1.897,13,10,11.89,10.37,0.0,0,0.0,0.5,0.0,0,Append Child
+236,plugin class loader,plugin class loader,1.897,0.731,1.897,2,2,3.17,4.61,0.0,0,0.5,0.33,0.0,1,plugin class loader | Plugin Class Loader
+237,YAML documents,yaml document,1.895,2.145,1.895,21,12,20.0,4.62,0.25,0,0.0,0.5,0.0,7,YAML documents | YAML document | YAML Documents
+238,code snippet,code snippet,1.893,2.393,1.893,18,15,17.0,9.29,0.0,0,0.0,0.5,0.0,0,code snippet | code snippets
+239,Surrogate character entities,surrogate character entities,1.893,2.227,1.893,9,9,14.26,9.17,0.0,0,0.0,0.33,0.0,0,Surrogate character entities
+240,XML canonicalization method,xml canonicalization method,1.89,0.724,1.89,2,1,3.17,4.48,0.0,0,0.5,0.33,0.0,0,XML canonicalization method
+241,DITA-OT Transformation,dita ot transformation,1.888,1.721,1.888,10,8,8.72,5.01,0.5,0,0.0,0.33,0.0,10,DITA-OT Transformation | DITA-OT Transformations | DITA-OT transformation | DITA-OT transformations
+242,valid JSON schemas,valid json schema,1.887,2.221,1.887,17,2,25.36,6.04,0.0,0,0.0,0.33,0.0,0,valid JSON schemas | valid JSON schema
+243,XQuery Update script,xquery update script,1.883,2.299,1.883,22,7,34.87,7.52,0.25,0,0.0,0.67,0.0,2,XQuery Update script | XQuery Update Script
+244,target database document,target database document,1.883,1.383,1.883,6,1,7.92,2.69,0.0,0,0.5,1.0,0.0,0,target database document
+245,catalog resolver,catalog resolver,1.882,1.882,1.882,9,7,8.0,10.37,0.0,0,0.0,0.0,0.0,0,catalog resolver
+246,HTML format,html format,1.881,2.131,1.881,13,12,13.0,5.35,0.25,0,0.0,0.5,0.0,4,HTML format | HTML Format
+247,Attributes view,attributes view,1.874,2.124,1.874,36,29,34.0,4.21,0.25,0,0.0,0.5,0.0,7,Attributes view | Attributes View | Attributes views
+248,Compare Directories tool,compare directories tool,1.873,2.04,1.873,8,7,12.68,6.15,0.5,0,0.0,0.67,0.0,2,Compare Directories tool | Compare Directories Tool
+249,Database perspective,database perspective,1.869,2.369,1.869,25,24,25.0,8.83,0.5,0,0.0,1.0,0.0,2,Database perspective | Database Perspective
+250,Apache Subversion working copy,apache subversion working copy,1.867,0.867,1.867,2,2,4.0,5.05,0.0,0,0.5,0.5,0.0,0,Apache Subversion working copy
+251,DITA Map PDF,dita map pdf,1.865,2.199,1.865,45,38,69.74,5.63,0.0,0,0.0,0.33,0.0,2,DITA Map PDF
+252,Insert Reference dialog box,insert reference dialog box,1.865,2.115,1.865,24,9,48.0,4.04,0.5,0,0.0,0.75,0.0,2,Insert Reference dialog box | Insert Reference Dialog Box
+253,WebHelp Responsive transformation,webhelp responsive transformation,1.863,2.197,1.863,13,11,18.07,6.6,0.0,0,0.0,0.33,0.0,0,WebHelp Responsive transformation | WebHelp Responsive transformations
+254,Markdown documents,markdown document,1.86,2.11,1.86,45,15,42.0,3.96,0.25,0,0.0,0.5,0.0,4,Markdown documents | Markdown Documents | Markdown document | Markdown Document
+255,XSLT transformation,xslt transformation,1.858,2.108,1.858,19,17,16.25,3.93,0.25,0,0.0,0.5,0.0,4,XSLT transformation | XSLT transformations | XSLT Transformation | XSLT Transformations
+256,watermark,watermark,1.857,0.107,1.857,4,4,0.0,0.0,0.25,0,0.5,0.0,0.0,2,watermark | Watermark
+257,HTML document,html document,1.852,2.102,1.852,43,14,41.8,3.81,0.25,0,0.0,0.5,0.0,4,HTML document | HTML documents | HTML Documents | HTML Document
+258,multiple lines,multiple lines,1.852,2.152,1.852,12,9,12.0,6.26,0.0,1,0.0,1.0,0.0,0,multiple lines
+259,file,file,1.85,0.4,1.85,1588,515,0.0,0.0,0.25,1,0.5,1.0,0.0,13,file | files | Files | File | FILE
+260,example,example,1.85,0.4,1.85,1426,727,0.0,0.0,0.25,1,0.5,1.0,0.0,101,example | Example | examples | Examples | EXAMPLE
+261,value,value,1.85,0.4,1.85,1027,407,0.0,0.0,0.25,1,0.5,1.0,0.0,4,value | values | Values | Value | VALUES
+262,content,content,1.85,0.4,1.85,979,450,0.0,0.0,0.25,1,0.5,1.0,0.0,40,content | contents | Content | Contents
+263,references,reference,1.85,0.4,1.85,431,178,0.0,0.0,0.25,1,0.5,1.0,0.0,17,references | reference | Reference | References
+264,CSS file,css file,1.85,2.1,1.85,102,61,94.89,3.77,0.25,0,0.0,0.5,0.0,2,CSS file | CSS files | CSS File | CSS Files
+265,PDF transformation,pdf transformation,1.848,2.098,1.848,19,17,17.4,3.73,0.25,0,0.0,0.5,0.0,6,PDF transformation | PDF Transformation | PDF transformations | PDF Transformations
+266,debugging process,debugging process,1.846,2.346,1.846,19,13,17.5,8.4,0.0,0,0.0,0.5,0.0,0,debugging process
+267,TEI documents,tei document,1.844,2.094,1.844,14,9,13.0,4.16,0.25,0,0.0,0.5,0.0,1,TEI documents | TEI document | TEI Documents
+268,plugin descriptor file,plugin descriptor file,1.844,2.177,1.844,12,10,17.43,6.73,0.0,0,0.0,0.33,0.0,0,plugin descriptor file
+269,Oracle database,oracle database,1.843,0.843,1.843,3,2,2.5,7.95,0.0,0,0.5,0.5,0.0,0,Oracle database | Oracle Database
+270,XSLT parameters,xslt parameters,1.841,1.841,1.841,10,8,10.0,3.96,0.5,0,0.0,0.5,0.0,1,XSLT parameters | XSLT Parameters
+271,Archive Browser view,archive browser view,1.84,2.173,1.84,14,8,20.6,5.65,0.0,0,0.0,0.33,0.0,1,Archive Browser view | Archive Browser View
+272,DocBook documents,docbook document,1.839,2.089,1.839,24,16,23.0,3.56,0.25,0,0.0,0.5,0.0,1,DocBook documents | DocBook document | DocBook Documents
+273,profiling conditions,profiling condition,1.836,2.336,1.836,15,11,13.0,8.22,0.0,0,0.0,0.5,0.0,1,profiling conditions | profiling condition | Profiling conditions | Profiling Conditions
+274,main menu,main menu,1.833,2.133,1.833,23,19,21.43,4.4,0.0,1,0.0,1.0,0.0,0,main menu | main menus | Main Menu
+275,preferences page,preferences page,1.832,2.332,1.832,91,70,88.22,8.15,0.0,0,0.0,0.5,0.0,0,preferences page | preferences pages | Preferences page | Preferences pages
+276,glossary term,glossary term,1.83,2.33,1.83,11,2,11.0,10.11,0.0,0,0.0,0.5,0.0,2,glossary term | glossary terms | Glossary Terms
+277,MarkLogic server,marklogic server,1.827,2.327,1.827,15,4,12.0,8.05,0.0,0,0.0,0.5,0.0,0,MarkLogic server
+278,Workspace Access plugin,workspace access plugin,1.825,2.158,1.825,12,9,13.47,6.38,0.0,0,0.0,0.33,0.0,0,Workspace Access plugin | workspace access plugin | Workspace Access plugins | workspace access plugins
+279,Eclipse plugin,eclipse plugin,1.825,1.825,1.825,10,7,8.0,8.8,0.0,0,0.0,0.0,0.0,0,Eclipse plugin | Eclipse plugins
+280,combo box,combo box,1.824,2.324,1.824,35,26,33.77,7.98,0.0,0,0.0,0.5,0.0,0,combo box | combo boxes | Combo boxes
+281,column header,column header,1.822,2.322,1.822,21,15,19.0,7.95,0.0,0,0.0,0.5,0.0,0,column header | column headers
+282,DITA Open Toolkit plugin,dita open toolkit plugin,1.821,2.071,1.821,14,7,26.0,3.72,0.0,0,0.0,0.25,0.0,0,DITA Open Toolkit plugin
+283,validation units,validation unit,1.819,2.319,1.819,20,17,18.25,7.9,0.0,0,0.0,0.5,0.0,1,validation units | validation unit | Validation Unit
+284,NVDL schema,nvdl schema,1.819,1.819,1.819,10,7,8.5,7.4,0.0,0,0.0,0.0,0.0,1,NVDL schema | NVDL Schema
+285,Apache Subversion,apache subversion,1.819,1.819,1.819,9,9,7.4,10.74,0.0,0,0.0,0.0,0.0,0,Apache Subversion
+286,HTML file,html file,1.815,2.065,1.815,38,25,37.0,3.1,0.25,0,0.0,0.5,0.0,1,HTML file | HTML files | HTML Files
+287,profiling attribute values,profiling attribute value,1.815,2.148,1.815,16,9,23.77,4.67,0.0,0,0.0,0.33,0.0,0,profiling attribute values | profiling attribute value
+288,XQuery document,xquery document,1.814,2.064,1.814,20,14,19.0,3.09,0.25,0,0.0,0.5,0.0,5,XQuery document | XQuery documents | XQuery Documents | XQuery Document
+289,web browser,web browser,1.814,2.314,1.814,19,19,18.0,7.8,0.0,0,0.0,0.5,0.0,0,web browser | web browsers | Web browser | Web browsers
+290,single line,single line,1.812,2.112,1.812,11,8,11.0,6.0,0.0,1,0.0,1.0,0.0,0,single line
+291,license key,license key,1.811,2.311,1.811,54,19,52.5,7.75,0.5,0,0.0,1.0,0.0,6,license key | License Key | License key | License Keys
+292,document template,document template,1.81,2.06,1.81,28,15,25.0,3.02,0.25,0,0.0,0.5,0.0,6,document template | document templates | Document Templates | Document Template | Document templates
+293,highlighting tool,highlighting tool,1.803,2.303,1.803,18,9,18.0,7.59,0.0,0,0.0,0.5,0.0,0,highlighting tool
+294,main module,main module,1.802,2.302,1.802,30,12,30.0,7.57,0.0,0,0.0,0.5,0.0,0,main module | main modules | Main Modules
+295,logical folder,logical folder,1.799,2.299,1.799,21,4,20.0,7.52,0.0,0,0.0,0.5,0.0,0,logical folder | logical folders | Logical folders
+296,BASE revision,base revision,1.793,2.293,1.793,15,9,14.0,7.4,0.0,0,0.0,0.5,0.0,0,BASE revision | BASE Revision | BASE revisions
+297,installation directory,installation directory,1.79,2.29,1.79,19,15,14.83,7.36,0.0,0,0.0,0.5,0.0,0,installation directory | Installation Directory
+298,custom refactoring operation,custom refactoring operation,1.79,1.957,1.79,8,6,12.68,4.59,0.5,0,0.0,0.67,0.0,4,custom refactoring operation | Custom Refactoring Operations | custom refactoring operations | Custom Refactoring Operation
+299,XML source,xml source,1.787,1.587,1.787,10,6,8.78,2.33,0.0,1,0.0,0.5,0.0,0,XML source | XML sources
+300,base directory,base directory,1.783,2.283,1.783,40,11,39.0,7.21,0.0,0,0.0,0.5,0.0,0,base directory | Base directory

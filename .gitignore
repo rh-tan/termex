@@ -1,0 +1,5 @@
+corpus/
+out/*.pkl
+__pycache__/
+*.pyc
+notes/
